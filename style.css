@@ -18,12 +18,8 @@ header {
     background-color: burlywood;
     padding: 25px;
 }
-.logo {
-  display: flex;
-  gap: 50px;
-  align-items: center;
-}
-.logo img {
+
+.nav img {
   height: 50px;
   border-radius: 50px;
 }
